@@ -20,7 +20,7 @@ products:
       text: "We offer a small, but carefully curated selection of garments and custom items for every taste and desire. 
         No matter if you're a hug a tree hippie, a fancy pants artisan coffee drinker, or you dabble in some other new 
         hipster fashion trend that no-one else has yet heard of. You’ll inevitably find an item to fall in love with in our shop."
-values:
+about:
     heading: Our values
     text: Garments are an amazing part of human culture but they have a dark side too – one of colonialism and mindless abuse of 
         natural resources and human lives. We want to turn this around and return the garment trade to the it's exhilarating, 
