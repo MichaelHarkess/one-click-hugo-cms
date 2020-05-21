@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Bears Wears"
 subtitle: Homemade wearables made by bears
-image: /img/home-jumbotron.jpg
+image: /img/home-bear.jpg
 blurb:
     heading: Why Bears?
     text: "Because if you don't they will come and bite you.  Have you ever seen a bears claws? Holy fuck dude.  That shit will end you in one quick swipe.  You wouldn't stand a chance.  Unless you're wearing Bears Wears TM, these motherfucking badass garms will literally stop bear attacks.  Literally!"
