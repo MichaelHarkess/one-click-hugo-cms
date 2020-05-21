@@ -20,7 +20,7 @@
     imageFolder = "src/images/instagram"
 
     # Also stash data about the images in a json file
-    dataFile = "src/instagram.json"
+    dataFile = "src/_data/instagram.json"
 
     # How many seconds should we cache the instagram feed for?
     feedTTL = 30
