@@ -1,11 +1,6 @@
 ---
 title: "Contact"
 logo: "/img/logo.svg"
-contact_entries:
-  - heading: Location
-    text: "Peterborough, UK"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 5PM"
 ---
 
 We’d love to get in touch with you and hear your ideas and

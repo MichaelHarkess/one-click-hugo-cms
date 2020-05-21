@@ -9,3 +9,30 @@
 
 [context.deploy-preview]
   command = "yarn build:preview"
+
+# Config for the Netlify Build Plugin: netlify-plugin-add-instagram
+[[plugins]]
+  package = "netlify-plugin-add-instagram"
+
+  [plugins.inputs]
+
+    # Where to put the image files
+    imageFolder = "src/images/instagram"
+
+    # Also stash data about the images in a json file
+    dataFile = "src/_data/instagram.json"
+
+    # How many seconds should we cache the instagram feed for?
+    feedTTL = 30
+
+    # How many seconds should we cache each instagram image for?
+    imageTTL = 1209600   # 2 weeks
+
+    # Which of Instagram's image sizes should we fetch?
+    # t (thumbnail)
+    # m (medium)
+    # l (large)
+    imageSize = "m"
+
+    # Instagram username
+    username = "Bearswearuk"
