@@ -18,8 +18,7 @@ products:
         for custom shit."
     - image: /img/illustrations-coffee-gear.svg
       text: "We offer a small, but carefully curated selection of garments and custom items for every taste and desire. 
-        No matter if you're a hug a tree hippie, a fancy pants artisan coffee drinker, or you dabble in some other new 
-        hipster fashion trend that no-one else has yet heard of. You’ll inevitably find an item to fall in love with in our shop."
+        Who doesn't love tie-dye for fucks sake?! You’ll inevitably find an item to fall in love with in our shop."
 about:
     heading: Our values
     text: Garments are an amazing part of human culture but they have a dark side too – one of colonialism and mindless abuse of 
