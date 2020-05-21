@@ -1,7 +1,7 @@
 ---
 title: "About"
 image: /img/about-jumbotron.jpg
-values:
+about:
   - heading: "Unique Tie-Dye Products"
     text: >
       A wonderful serenity has taken possession of my entire soul, 
