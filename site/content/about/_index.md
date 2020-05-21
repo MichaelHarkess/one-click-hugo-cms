@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "About"
 image: /img/about-jumbotron.jpg
 values:
   - heading: "Unique Tie-Dye Products"
