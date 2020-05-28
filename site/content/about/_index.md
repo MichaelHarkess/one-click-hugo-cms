@@ -2,31 +2,24 @@
 title: "About"
 image: /img/about-jumbotron.jpg
 about:
-  - heading: "Unique Tie-Dye Products"
+  - heading: "Why Bear?"
     text: >
-      A wonderful serenity has taken possession of my entire soul, 
-      like these sweet mornings of spring which I enjoy with my whole 
-      heart. I am alone, and feel the charm of existence in this spot, 
-      which was created for the bliss of souls like mine. I am so happy, 
-      my dear friend, so absorbed in the exquisite sense of mere tranquil 
-      existence, that I neglect my talents.
+      Bear believes in strength through kindness. And back scratching on trees. 
+      And as such makes kind, durable hand died garments, best suited for losing 
+      time in the woods, with the clan or lone foraging.  Bears cub can agree that 
+      he is best suited to the woods, against his favorite tree.
     imageUrl: "/img/about-tie-dye.jpg"
-  - heading: "Custom Garments"
+  - heading: "About Bear?"
     text: >
-      A wonderful serenity has taken possession of my entire soul, 
-      like these sweet mornings of spring which I enjoy with my whole 
-      heart. I am alone, and feel the charm of existence in this spot, 
-      which was created for the bliss of souls like mine. I am so happy, 
-      my dear friend, so absorbed in the exquisite sense of mere tranquil 
-      existence, that I neglect my talents.
+      Bear was a professional chef working in the high paced world of the kitchen, 
+      after the birth of his cub, he began to take life at a slower pace, spending 
+      time in his colourful cave and woods with his loved ones. Twisting and tieing 
+      garments for their enjoyment.
     imageUrl: "/img/about-custom.jpg"
-  - heading: "Handmade By Bears"
+  - heading: "Year of the Bear"
     text: >
-      A wonderful serenity has taken possession of my entire soul, 
-      like these sweet mornings of spring which I enjoy with my whole 
-      heart. I am alone, and feel the charm of existence in this spot, 
-      which was created for the bliss of souls like mine. I am so happy, 
-      my dear friend, so absorbed in the exquisite sense of mere tranquil 
-      existence, that I neglect my talents.
+      Now a few of his buddies have helped him out of the woods on on to the internet, and maybe just into your weekly rotation.
+      Bear prices his work based on the time and skill of each unique piece, and the materials he selects for the process. 
+      Custom tie-dies and collaborations with friends; other textile producers and design brands 
     imageUrl: "/img/about-made-by.jpg"
 ---

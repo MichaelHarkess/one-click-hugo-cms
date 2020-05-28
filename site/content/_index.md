@@ -1,13 +1,12 @@
 ---
-title: "Welcome to Bears Wears"
+title: "Welcome to Bear of the Woodsx "
 subtitle: Homemade wearables made by bears
 image: /img/home-bear.jpg
 blurb:
     heading: Why Bears?
-    text: "Because if you don't buy their products they will come and bite you.  Have you ever seen a bears claws? 
-        Holy fuck dude.  That shit will end you in one quick swipe.  You wouldn't stand a chance.  And the teeth? 
-        Forget it.. Game over.. Unless you're wearing one of Bears Wears™ garments, these motherfucking badass garms 
-        will literally stop bear attacks. Don't say we didn't warn you"
+    text: "A bear lives nothing more than to be foraging for that prefect back scratching tree, 
+    so a percentage of every sale goes to his uk native forest fund.  trees are a serious business 
+    to bears so why leave it up to humans?"
 intro:
     heading: "What we offer"
     text: "Bears Wears is the ultimate spot for unique hand made clothing lovers who want to support the bears that make them."
